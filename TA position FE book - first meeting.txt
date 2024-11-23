@@ -1,0 +1,15 @@
+TA position FE book - first meeting 13/11/2024
+
+1. Writing Gridap tutorials w/ Binder.
+
+First tutorial: Solving PDEs with Gridap.jl
+Second tutorial: Explain the FE spaces
+Third tutorial: Integration in Gridap using different integration schemes in Gridap
+Fourth tutorial: FE for linear elasticity in Gridap (https://gridap.github.io/Tutorials/dev/pages/t003_elasticity/)
+
+Last tutorial: 2d frame analysis in Gridap
+
+- Make a list for Gridap tutorials.
+
+2. Fluid-Structure Interaction tutorials.
+
