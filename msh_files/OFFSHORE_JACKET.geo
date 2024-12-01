@@ -29,3 +29,5 @@ Physical Line("Base") = {1, 2};
 Physical Line("Middle") = {7};
 Physical Line("Top") = {12};
 Physical Line("Diagonals") = {3, 4, 5, 6, 8, 9, 10, 11};
+Physical Point("Base legs") = {1, 3};
+Physical Point("Point of application for force") = {6};
