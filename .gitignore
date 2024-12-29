@@ -1,0 +1,8 @@
+# Ignore all .vtu files
+*.vtu
+
+# Ignore all .pvd files
+*.pvd
+
+# Ignore all .vtk files
+*.vtk
