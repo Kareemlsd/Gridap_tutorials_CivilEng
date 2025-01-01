@@ -35,10 +35,10 @@ This tutorial series is designed to teach you how to:
 
 ### Tutorial 1 (Extra): Vector-Valued PDE Problem
 - **Content:**
-  - Extension of Tutorial 1 to vector-valued PDEs.
+  - Extension of Tutorial 1 w/ PDE containing vector-valued quantities.
   - Direct implementation of a multi-dimensional problem.
 - **Outcome:**
-  - Solve vector-valued PDEs using Gridap.
+  - Solve PDEs using Gridap.
 
 ### Tutorial 2: Jacket Analysis Using Timoshenko Beam Theory
 - **Content:**
